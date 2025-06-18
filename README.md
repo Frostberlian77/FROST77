@@ -37,3 +37,5 @@ frost77/
 │   └── .env
 ├── README.md
 └── setup-guide.md              # File tambahan: Panduan setup
+|
+|__additional_license_info.md
