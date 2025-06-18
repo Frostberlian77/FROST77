@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/:path*", "destination": "https://frost77-backend.eb.amazonaws.com/api/:path*" }
+  ]
+}
